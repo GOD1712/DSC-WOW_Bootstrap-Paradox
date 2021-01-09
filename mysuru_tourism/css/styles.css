@@ -205,6 +205,9 @@ footer{
     height: 70%;
   }
   /* Navbar */
+  .my-navbar{
+    padding: 20px 30px;
+  }
   .nav1{
     background-color: #000;
     opacity: 0.8;
